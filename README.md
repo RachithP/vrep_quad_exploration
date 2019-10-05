@@ -1,4 +1,4 @@
-# vrep_quad_exploration
+# V-rep Quad Exploration
 A vrep simulation of a quadcopter performing autonmous exploration is an unknown environment. Uses vrep, python and ROS.
 
 ## Environment Details/Instructions
